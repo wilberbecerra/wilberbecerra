@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, My name is Wilber Becerra</h1>
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Gif animado" class="gif-con-borde">
 
 - 📫 Contact: **eduardobq23@outlook.es**
 
