@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, My name is Wilber Becerra</h1>
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Gif animado" class="gif-con-borde">
+.gif-con-borde {
+    border: 5px solid black; /* Borde negro de 5px */
+    padding: 5px; /* Espaciado entre el borde y la imagen */
+    width: 50%; /* El GIF tendrá el 50% de su tamaño original */
+}
+
 
 - 📫 Contact: **eduardobq23@outlook.es**
 
