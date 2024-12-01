@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Wilber Becerra</h1>
-<h3 align="center">A passionate backend developer</h3>
+<hr>
 
 - 📫 How to reach me **eduardobq23@outlook.es**
 
