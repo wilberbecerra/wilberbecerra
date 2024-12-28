@@ -119,8 +119,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br> 
-
 ---
 <p align="center">
   <a href="https://www.youtube.com/c/Programaci%C3%B3nATS" target="_blank">
