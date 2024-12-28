@@ -86,9 +86,13 @@
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft%20sql%20server&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
