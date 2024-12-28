@@ -111,14 +111,24 @@
 
  
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture> Inspiring Quote
-
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture>  Operating Systems 
 <p align="center">
   &emsp;
-    <a href="https://www.youtube.com/c/Programaci%C3%B3nATS" target="_blank">
-      <img src="https://img.shields.io/badge/Si%20lo%20puedes%20imaginar,%20lo%20puedes%20programar.-Alejandro%20Taboada-FF5733?style=plastic&logo=quote&logoColor=white">
-    </a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
+
+<br> 
+
+---
+<p align="center">
+  <a href="https://www.youtube.com/c/Programaci%C3%B3nATS" target="_blank">
+    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Si%20lo%20puedes%20imaginar,%20lo%20puedes%20programar.&author=Alejandro%20Taboada">
+  </a>
+</p>
+
+
 
 
 
