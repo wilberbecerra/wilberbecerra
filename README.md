@@ -7,11 +7,10 @@
 <h1>
   <picture>
 <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;">
+
 </picture>
   About me
 </h1>
-
-
 <picture>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="230px" style="visibility:visible;max-width:100%;">
 </picture> 
@@ -22,7 +21,9 @@
   <li>🤓 Always learning new things.</li>
  <li>🏃🏼‍♂️ My hobbies include playing the guitar, enjoying video games, cycling, and photography.</li> 
   <li>📧 Contact: eduardobq23@outlook.es</li>
-</ul>
+  <br>
+  </ul>
+
 
 ## 🛠️ My Skills
 
