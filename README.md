@@ -6,13 +6,13 @@
 
 <h1>
   <picture>
-<img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;">
-
-</picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;">
+  </picture>
   About me
 </h1>
+
 <picture>
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="230px" style="visibility:visible;max-width:100%;">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="230px" style="visibility:visible;max-width:100%; float: right; margin-top: -40px;">
 </picture> 
 
 <ul>
