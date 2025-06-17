@@ -20,11 +20,8 @@
   <li>✨ Improving my soft skills day by day.</li>
   <li>🤓 Always learning new things.</li>
  <li>🏃🏼‍♂️ My hobbies include playing the guitar, enjoying video games, cycling, and photography.</li> 
-  <li>📧 Contact: eduardobq23@outlook.es</li>
-  <br> <br> 
+  <li>📧 Contact: eduardobq23@outlook.es</li>  
   </ul>
-
-
 
 ## 🛠️ My Skills
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
