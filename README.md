@@ -86,7 +86,7 @@
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF.svg?style=plastic&logo=trello&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dvd.png" width = 45px> </picture> Databases
+### <img src="https://img.icons8.com/fluency/48/database.png" width="40"> Databases
 
 <p align="center">
   &emsp;
