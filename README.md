@@ -84,6 +84,11 @@
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=plastic&logo=jira&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF.svg?style=plastic&logo=trello&logoColor=white"></a>
+</p>
+
+### <picture> <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dvd.png" width = 45px> </picture> Databases
+
+<p align="center">
   &emsp;
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"></a>
   &emsp;
