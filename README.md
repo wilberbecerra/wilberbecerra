@@ -47,7 +47,7 @@
   </a> 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width = 50px> </picture> Frameworks & Mobile Development
+### <img src="https://img.icons8.com/fluency/48/layers.png" width="35"> Frameworks & Mobile Development
 
 <p align="center"> 
   &emsp; 
