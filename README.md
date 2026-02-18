@@ -49,13 +49,15 @@
 
 ### <img src="https://img.icons8.com/fluency/48/layers.png" width="35"> Frameworks & Mobile Development
 
-<p align="center"> 
-  &emsp; 
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
+<p align="center"> 
+  &emsp; 
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
