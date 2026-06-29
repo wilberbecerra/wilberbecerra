@@ -16,7 +16,7 @@
 </picture> 
 <br><br>
 <ul>
-  <li>🧑‍💻 I am a passionate software development student.</li>
+  <li>🧑‍💻 I am a passionate software development.</li>
   <li>✨ Improving my soft skills day by day.</li>
   <li>🤓 Always learning new things.</li>
  <li>🏃🏼‍♂️ My hobbies include playing the guitar, enjoying video games, cycling and photography.</li> 
