@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 72" width="600" height="72">
-  <text x="50%" y="52" text-anchor="middle" fill="#FFFFFF" font-family="&#39;Segoe UI&#39;, -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-size="48" font-weight="600" letter-spacing="3.5">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 104" width="720" height="104">
+  <text x="50%" y="52" text-anchor="middle" fill="#FFFFFF" font-family="&#39;Segoe UI&#39;, -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-size="50" font-weight="600" letter-spacing="4">
     WILBER BECERRA
+  </text>
+  <text x="50%" y="88" text-anchor="middle" fill="#94A3B8" font-family="&#39;Segoe UI&#39;, -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="0.8">
+    Full-Stack Developer  |  Java · Spring Boot · .NET 8 · Angular · AWS
   </text>
 </svg>
