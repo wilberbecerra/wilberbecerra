@@ -1,15 +1,16 @@
 <div align="center">
 
-# Wilber Becerra
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
+  <img src="./header-dark.svg" alt="Wilber Becerra" width="520" />
+</picture>
+
 **Full-Stack Developer | Java · Spring Boot · .NET 8 · Cloud & Microservicios**
 
 <p>
-  <a href="https://www.linkedin.com/in/wilberbecerra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eduardobq23@outlook.es">
-    <img src="https://img.shields.io/badge/Contacto-eduardobq23@outlook.es-0078D4?style=for-the-badge&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/wilberbecerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:eduardobq23@outlook.es"><img src="https://img.shields.io/badge/Contacto-eduardobq23@outlook.es-0078D4?style=for-the-badge&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
