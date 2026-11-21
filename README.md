@@ -1,7 +1,7 @@
 <div align="center">
 
 # Wilber Becerra
-**Backend & Full-Stack Developer | Java · Spring Boot · .NET 8 · Cloud & Microservicios**
+**Full-Stack Developer | Java · Spring Boot · .NET 8 · Cloud & Microservicios**
 
 <p>
   <a href="https://www.linkedin.com/in/wilberbecerra">
