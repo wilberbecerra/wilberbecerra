@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
-  <img src="./header-dark.svg" alt="Wilber Becerra" width="520" />
+  <img src="./header-dark.svg" alt="Wilber Becerra" width="700" />
 </picture>
 
-**Full-Stack Developer | Java · Spring Boot · .NET 8 · Cloud & Microservicios**
+
 
 <p>
   <a href="https://www.linkedin.com/in/wilberbecerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>&nbsp;
