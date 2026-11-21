@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 88" width="720" height="88">
+  <defs>
+    <linearGradient id="nameGradDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+    <linearGradient id="accentDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A66C2" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0A66C2" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="56" text-anchor="middle" fill="url(#nameGradDark)" font-family="&#39;Segoe UI&#39;, -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-size="52" letter-spacing="2">
+    <tspan font-weight="300">Wilber </tspan><tspan font-weight="600">Becerra</tspan>
+  </text>
+  <rect x="220" y="74" width="280" height="2" rx="1" fill="url(#accentDark)" />
+</svg>
